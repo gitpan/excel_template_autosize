@@ -1,0 +1,4 @@
+Makefile.PL
+MANIFEST
+README
+lib/Excel/Template/Element/Cell/AutoSize.pm
